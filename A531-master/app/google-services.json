@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "284394455768",
+    "project_id": "baker-e19c5",
+    "storage_bucket": "baker-e19c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284394455768:android:3382f8f9438aa881578dad",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284394455768-afv3m3efpcd9gje712p4b76ao37ii30e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFSt4Xtw6gh3XDitvsHa9iCF84UCweSBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284394455768-afv3m3efpcd9gje712p4b76ao37ii30e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

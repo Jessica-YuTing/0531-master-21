@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/USER/Desktop/20220503-master/app/src/main/res/layout/activity_main5.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/USER/Desktop/ABC-master/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.236" />
+        <entry key="..\:/Users/USER/Desktop/ABC-master/app/src/main/res/drawable/ic_launcher_background.xml" value="0.236" />
+        <entry key="..\:/Users/USER/Desktop/ABC-master/app/src/main/res/layout/activity_main.xml" value="0.42864583333333334" />
+        <entry key="..\:/Users/USER/Desktop/ABC-master/app/src/main/res/layout/activity_main2.xml" value="0.19427083333333334" />
+        <entry key="..\:/Users/USER/Desktop/ABC-master/app/src/main/res/layout/activity_main3.xml" value="0.19427083333333334" />
+        <entry key="..\:/Users/USER/Desktop/ABC-master/app/src/main/res/layout/activity_main4.xml" value="0.19427083333333334" />
+        <entry key="..\:/Users/USER/Desktop/ABC-master/app/src/main/res/layout/activity_main5.xml" value="0.19427083333333334" />
+        <entry key="..\:/Users/aappl/Desktop/0505-master/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/aappl/Desktop/0505-master/app/src/main/res/layout/activity_main2.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/aappl/Desktop/0505-master/app/src/main/res/layout/activity_main3.xml" value="0.536" />
+        <entry key="..\:/Users/aappl/Desktop/0505-master/app/src/main/res/layout/activity_main4.xml" value="0.536" />
+        <entry key="..\:/Users/aappl/Desktop/0505-master/app/src/main/res/layout/activity_main5.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/aappl/Desktop/0505-master/app/src/main/res/layout/activity_main6.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/aappl/Desktop/20220503S2-master/app/src/main/res/layout/activity_main2.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/aappl/Desktop/20220503S2-master/app/src/main/res/layout/activity_main3.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/aappl/Desktop/20220503S2-master/app/src/main/res/layout/activity_main5.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/aappl/Desktop/20220503S2-master/app/src/main/res/layout/activity_main6.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/aappl/Desktop/A525-master/app/src/main/res/layout/activity_main3.xml" value="0.22554347826086957" />
+        <entry key="..\:/Users/aappl/Desktop/A525-master/app/src/main/res/layout/activity_main4.xml" value="0.22554347826086957" />
+        <entry key="..\:/Users/aappl/Desktop/A525-master/app/src/main/res/layout/activity_main7.xml" value="0.22554347826086957" />
+        <entry key="..\:/Users/aappl/Desktop/newhome-master/app/src/main/res/layout/activity_main.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/aappl/Desktop/newhome-master/app/src/main/res/layout/activity_main2.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/aappl/Desktop/newhome-master/app/src/main/res/layout/activity_main3.xml" value="0.2" />
+        <entry key="..\:/Users/aappl/Desktop/newhome-master/app/src/main/res/layout/activity_main4.xml" value="0.22192028985507245" />
+        <entry key="..\:/Users/aappl/Desktop/newhome-master/app/src/main/res/layout/activity_main5.xml" value="0.22192028985507245" />
+        <entry key="..\:/Users/student/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/student/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_main2.xml" value="0.36614583333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
